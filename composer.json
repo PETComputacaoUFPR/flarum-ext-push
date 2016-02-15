@@ -1,7 +1,7 @@
 {
     "name": "flarum-ext-push",
     "description": "A flarum extension for send notifications using GCM",
-    "type": "project",
+    "type": "flarum-extension",
     "keywords": ["push","gcm","forum", "discussion"],
     "license": "MIT",
     "authors": [
